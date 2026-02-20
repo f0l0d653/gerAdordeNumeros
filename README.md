@@ -12,7 +12,7 @@ Aplicação Web voltada à geração de números aleatórios com base em parâme
 # Tecnologias usadas
 - <kbd> HTML5 </kbd>
 - <kbd> CSS3 </kbd>
-- <kbd> JavaScrip </kbd>
+- <kbd> JavaScript </kbd>
 
 # Autor
 
